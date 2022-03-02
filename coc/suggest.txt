@@ -1,0 +1,8 @@
+|node_modules|file
+|extensions|file
+ke|key|pyright
+lat|latencies|pyright
+lat|latencies|around
+ot|other_path|pyright
+in|input_path|pyright
+Abso|AbsoluteVerifier|pyright
