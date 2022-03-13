@@ -147,7 +147,7 @@ endfunction
 
 " Searching in Vim Cheatsheet: https://thevaluable.dev/vim-search-find-replace/
 noremap <silent> <C-o> :Buffers<CR>
-nnoremap <leader>f <cmd>Telescope find_files<cr>
+nnoremap <leader>f <cmd>Telescope find_files hidden=true<cr>
 nnoremap <leader>fg <cmd>Telescope live_grep<cr>
 nnoremap <leader>fb <cmd>Telescope buffers<cr>
 
