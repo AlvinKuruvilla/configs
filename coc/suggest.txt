@@ -1,3 +1,7 @@
+dis|disable|around
+py|pylint|around
+inc|increment_count|around
+increment|increment_count|around
 |node_modules|file
 |extensions|file
 ke|key|pyright
