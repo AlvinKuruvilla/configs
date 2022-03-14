@@ -166,7 +166,7 @@
     {
         invocation: edit
         shortcut: e
-        execution: "$EDITOR +{line} {file}"
+        execution: "vim +{file}"
         leave_broot: false
     }
 
