@@ -81,7 +81,8 @@ let g:onedark_config = {
 \}
 syntax enable on
 "colorscheme onedark
-colorscheme base16-atelier-dune
+"colorscheme base16-atelier-dune
+colorscheme base16-darktooth
 "colorscheme srcery
 "colorscheme hybrid
 autocmd! bufwritepost $HOME/.mar:slo/.vimrc silent! source %
