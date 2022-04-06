@@ -1,3 +1,5 @@
+do|do_after_read|around
+contents|contents|around
 dis|disable|around
 py|pylint|around
 inc|increment_count|around
