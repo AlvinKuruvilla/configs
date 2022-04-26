@@ -1,3 +1,4 @@
+find|find_threes|around
 do|do_after_read|around
 contents|contents|around
 dis|disable|around
