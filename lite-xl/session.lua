@@ -1,1 +1,0 @@
-return {recents={[1]="/Users/alvinkuruvilla/Dev/kmlog",[2]="/Users/alvinkuruvilla",[3]="/Users/alvinkuruvilla/Dev"}, window={[1]=1152,[2]=720,[3]=246,[4]=53,["n"]=4}, window_mode="normal", previous_find={}, previous_replace={}}
